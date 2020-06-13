@@ -1,0 +1,27 @@
+table, tr, td {
+    border: 6px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+.square {
+    width: 200px;
+    height: 200px;
+    background: silver;
+}
+.yellow {
+    background: yellow;
+}
+.blue {
+    background: darkblue;
+}
+.red {
+    background: #9c0824;
+}
+.silver {
+    background: silver;
+}
